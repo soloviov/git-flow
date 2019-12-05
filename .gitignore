@@ -1,0 +1,5 @@
+.idea
+*.bak
+*.log
+*.pid
+.DS_Store
